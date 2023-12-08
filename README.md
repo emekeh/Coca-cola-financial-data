@@ -6,7 +6,7 @@ This is Data Curation project done for Hamoye Internship.
 
 **Date range**: Data covers fiscal years 2009 – 2019
 
-**Source**: Data was collected from Coca-Cola's investor relations website (https://investors.coca-colacompany.com/financial-information/financial-results) 
+**Source**: Data was collected from [Coca-Cola's investor relations website](https://investors.coca-colacompany.com/financial-information/financial-results) 
 
 **Units of measurement**:
   - Revenue, expenses, and net income are reported in millions of US dollars ($M)
